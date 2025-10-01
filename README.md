@@ -1,6 +1,6 @@
 - Hi, I’m @suyash07
 - I’m passionate about Data Analytics
-- I’m recently graduated with Masters in Data Analytics and Information Systems from Utah State University.
+- I’m graduated with Masters in Data Analytics and Information Systems from Utah State University.
 - Here are some of my academic projects on analytics using python and R.
 - 📫 You can reach out to me at : mhetresuyash7@gmail.com
 
